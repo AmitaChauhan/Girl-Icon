@@ -1,12 +1,9 @@
 body {
-    background: url('/images/paisley.png');
+    background: url('../images/paisley.png');
 }
 .intro-common {
-
-
     width : 100%;
     height: auto;
-
 }
 
 .intro {
