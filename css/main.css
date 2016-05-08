@@ -63,3 +63,13 @@ body {
 .point-1 {
     background-color: rgba(191, 166, 114,0.8);
 }
+
+
+.link {
+    margin-left: 20rem;
+    margin-right: 8rem;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+    font-size: 1.75rem;
+    font-family: 'Droid Sans', 'sans-serif';
+}
